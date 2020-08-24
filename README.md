@@ -1,4 +1,4 @@
 # Weather app
 
 
-## Demonstaration of opwnweather api with dajngo
+## Demonstaration of openweather api with dajngo
