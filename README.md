@@ -1,4 +1,4 @@
-# Demonstrate django-allauth
+# Weather app
 
 
-## Demonstaration of django-allauth package for my site
+## Demonstaration of opwnweather api with dajngo
